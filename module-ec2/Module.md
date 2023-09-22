@@ -1,4 +1,4 @@
-# Modules in Terraform
+# Modules Advantages in Terraform
 Basically modules helps us in Maintaing, Collaborating, ReUsability, Ownership, Scalability and there are more as such but we 
 discuss as a few.
 
